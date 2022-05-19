@@ -7,8 +7,12 @@ body {
     font-family: "GoogleSans";
 }
 
+p {
+	margin-top: -15px;
+}
+
 h1 {
-    margin-top: -15px;
+	margin-top: -9px;
 }
 
 .tags {
