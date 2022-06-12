@@ -153,6 +153,7 @@ h1 {
 	width: 100%;
 	height: 80px;
 	background-color: var(--md-sys-color-error-container);
+	color: var(--md-sys-color-on-error-container);
 }
 
 #box16 {
@@ -226,13 +227,14 @@ h1 {
 	width: 100%;
 	height: 100px;
 	background-color: var(--md-sys-color-inverse-surface);
-	color: var(--md-sys-color-outline);
+	color: var(--md-sys-color-inverse-on-surface);
 }
 
 #box26 {
 	width: 100%;
 	height: 100px;
 	background-color: var(--md-sys-color-inverse-on-surface);
+	color: var(--md-sys-color-inverse-surface);
 }
 
 #box27 {
